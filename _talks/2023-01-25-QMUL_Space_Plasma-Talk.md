@@ -16,6 +16,6 @@ The tutorial then goes on to introduce the limitations of the Cassini instrument
 
 Finally, the tutorial gives a worked example of how to calculate moments from Cassini plasma data obtained by the CAPS/ELS instrument, and an example plot of the electron number density and temperature.
 
-The poster being presented can be found [here](https://liveuclac-my.sharepoint.com/:b:/g/personal/ucapikc_ucl_ac_uk/EfrUc8oOwrFNrOHVyjxnGHkBWKiCxSAZS_oJHnp6edT__g?e=E7XfxX).
+The slides being presented can be found [here](https://liveuclac-my.sharepoint.com/:b:/g/personal/ucapikc_ucl_ac_uk/EfrUc8oOwrFNrOHVyjxnGHkBWKiCxSAZS_oJHnp6edT__g?e=E7XfxX).
 
 <img src="/images/talk_QMUL2023.jpg" alt="Matthew Cheng speaking at QMUL Space Plasma Event 2023.">
