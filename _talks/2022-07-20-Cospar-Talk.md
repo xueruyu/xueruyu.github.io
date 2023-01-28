@@ -15,3 +15,7 @@ An automatic classification method of the bow shock and magnetopause boundaries 
 Cheng, I K., Achilleos, N. "Automated Bow Shock and Magnetopause Boundary Detection With Cassini Using Threshold and Deep Learning Methods", COSPAR. July, 2022. Athens, Greece.
 
 **My immense gratitude to the local organizing committee for supporting my travel to COSPAR 2022.** 
+
+
+<img src="/images/talks_COSPAR2022.jpg" alt="Matthew Cheng speaking at Cospar 2022.">
+

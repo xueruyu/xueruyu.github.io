@@ -19,3 +19,5 @@ Further work will include additional data analysis, along with the use of disper
 Cheng, I K., Achilleos, N. "Mirror Mode Structures in the Kronian Magnetosheath – Instability Criterion", AGU. December 12-16, 2022. Chicago, IL, US.
 
 The poster being presented can be found [here](https://bit.ly/3XQPLjy).
+
+<img src="/images/talks_AGU2022.jpg" alt="Matthew Cheng presenting a poster at AGU 2022.">
