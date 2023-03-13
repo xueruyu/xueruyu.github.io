@@ -31,7 +31,7 @@ ___
 These works provide an overview of my research written for outreach purposes.
 
 * **Cheng, I.K.**, Millas D. (2023). "How can neural networks provide insights into Saturn's magnetosphere?"
-Full text available at <a href="https://2science.gr/saturn-magnetosphere-and-machine-learning/" target="_blank" rel="noopener"> 2-minute Science </a>.
+Full text available at the Greek outreach group <a href="https://2science.gr/saturn-magnetosphere-and-machine-learning/" target="_blank" rel="noopener"> 2-minute Science </a>.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
