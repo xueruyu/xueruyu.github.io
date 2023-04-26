@@ -18,4 +18,4 @@ Finally, the tutorial gives a worked example of how to calculate moments from Ca
 
 The slides being presented can be found [here](https://liveuclac-my.sharepoint.com/:b:/g/personal/ucapikc_ucl_ac_uk/EfrUc8oOwrFNrOHVyjxnGHkBWKiCxSAZS_oJHnp6edT__g?e=E7XfxX).
 
-<img src="/images/talk_QMUL2023.jpg" alt="Matthew Cheng speaking at QMUL Space Plasma Event 2023.">
+<img src="/images/talks_QMUL2023.jpg" alt="Matthew Cheng speaking at QMUL Space Plasma Event 2023.">
