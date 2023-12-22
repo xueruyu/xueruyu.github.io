@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthew Cheng"
 title_separator          : "-"
 name                     : &name "Matthew Cheng"
-description              : &description "PhD Student at UCL"
+description              : &description "Senior Data Analyst at Wynn Macau"
 url                      : https://ikitcheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ikitcheng/ikitcheng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew Cheng"
   avatar           : "profile.png"
-  bio              : "PhD Student at UCL in Data Intensive Science and Space Physics"
-  location         : "London"
+  bio              : "Senior Data Analyst at Wynn Macau"
+  location         : "Macau | London"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Gmiu8zkAAAAJ&hl"
-  email            : "i.cheng.19@ucl.ac.uk"
+  email            : "matthewkit@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
