@@ -23,7 +23,7 @@ These works provide an overview of my research in social science data analysis w
 ___
 These works provide an overview of my research in sustainability data analysis with the use of machine learning techniques. 
 
-* **Cheng, I.K.**, Leong, K.K. (2022). "Data-driven decarbonisation pathways for reducing life cycle GHG emissions from food waste in the hospitality & food service sectors." Full text available at <a href="https://nature.com/articles/s41598-022-27053-6" target="_blank" rel="noopener"> Nature Scientific Reports </a>. In collection: <a href="https://www.nature.com/articles/s41598-022-27053-6" target="_blank" rel="noopener"> Sustainability Top 100 of 2023 </a>.
+* **Cheng, I.K.**, Leong, K.K. (2022). "Data-driven decarbonisation pathways for reducing life cycle GHG emissions from food waste in the hospitality & food service sectors." Full text available at <a href="https://nature.com/articles/s41598-022-27053-6" target="_blank" rel="noopener"> Nature Scientific Reports </a>. In collection: <a href="https://www.nature.com/collections/cehiacegbh" target="_blank" rel="noopener"> Sustainability Top 100 of 2023 </a>.
 
 
 ## Outreach
