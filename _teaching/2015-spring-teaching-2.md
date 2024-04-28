@@ -4,7 +4,7 @@ collection: teaching
 type: "High School"
 permalink: /teaching/K12
 venue: "In-person and Online"
-date: 
+date: 2015
 location: "US"
 ---
 
