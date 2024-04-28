@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-Conference Paper
+## Conference Paper
 ---
-Journal Paper
----
-Poster
----
+
+## Journal Paper
+___
+
+## Poster
+___
+
 
 {% include base_path %}
 
