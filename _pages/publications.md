@@ -13,7 +13,7 @@ Gelder, W., **Yu, X.**, Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “Fro
 
 ## Conference
 ___
-**Yu, X.**，Gelder, W., Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “Design Considerations for Evaluating Middle School AI Knowledge". International Conference of the Learning Sciences (ICLS) (2025). 
+**Yu, X.**, Gelder, W., Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “Design Considerations for Evaluating Middle School AI Knowledge". International Conference of the Learning Sciences (ICLS) (2025). 
 
 ## Poster
 ___
