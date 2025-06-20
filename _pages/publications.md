@@ -12,3 +12,9 @@ Gelder, W., **Yu, X.**, Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “Fro
 ## Conference
 ___
 **Yu, X.**, Gelder, W., Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “Design Considerations for Evaluating Middle School AI Knowledge". International Conference of the Learning Sciences (ICLS) (2025). [[pdf]](https://repository.isls.org/bitstream/1/11405/1/ICLS2025_1978-1982.pdf)
+
+## Poster
+___
+**Yu, X.**, Gelder, W., Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “A comparison of different modalities used in a design-based AI project}”. Poster to the MIT RAISE Conference (2025). 
+
+**Yu, X.**, "Affordances and Challenges: Co-designing an inclusive AI curriculum with middle school students”. Poster to the Harvard Student Research Symposium (2022).
