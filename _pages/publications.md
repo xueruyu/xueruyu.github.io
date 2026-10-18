@@ -16,10 +16,10 @@ Touretzky, D., Gardner-McCune, C., Cox, B., Uchidiuno, J., **Yu, X.**, Gelder, W
 ## Conference
 ___
 Lim, J., Berge, S., **Yu, X.**, Alexander S., Nhi, Vo, Denver, W., Cedric S., Uchidiuno, J., “Mechanics and Metaphors:
-Youth Representations of AI Ethics Through Play”. Computer-Human Interaction in Play (CHI Play) (2026). [[pdf]]{https://drive.google.com/file/d/1GrdhapfS_rOxOzpochKp5XuYExbLPjXD/view?usp=sharing}
+Youth Representations of AI Ethics Through Play”. Computer-Human Interaction in Play (CHI Play) (2026). [[pdf]] (https://drive.google.com/file/d/1GrdhapfS_rOxOzpochKp5XuYExbLPjXD/view?usp=sharing)
 
 Lim, J., **Yu, X.**, Bryan, W., Berge, S., Jane, A., Uchidiuno, J., “Age Matters: Age-Differentiated Playtesting for AI Edu-
-cational Games”. Computer-Human Interaction in Play (CHI Play) (2026). [[pdf]]{https://drive.google.com/file/d/1NRLySv8C1jbiP6YUP48tjqWoH5101AEK/view?usp=sharing}
+cational Games”. Computer-Human Interaction in Play (CHI Play) (2026). [[pdf]](https://drive.google.com/file/d/1NRLySv8C1jbiP6YUP48tjqWoH5101AEK/view?usp=sharing)
 
 **Yu, X.**, Gelder, W., Touretzky, D., Gardner-McCune, C., Uchidiuno, J., “Design Considerations for Evaluating Middle School AI Knowledge". International Conference of the Learning Sciences (ICLS) (2025). [[pdf]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7uOVREAAAAJ&citation_for_view=Y7uOVREAAAAJ:u-x6o8ySG0sC)
 
